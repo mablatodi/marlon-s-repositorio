@@ -1,0 +1,7 @@
+C:\Users\Susana\source\repos\repaso poo\repaso poo\bin\Debug\repaso poo.exe.config
+C:\Users\Susana\source\repos\repaso poo\repaso poo\bin\Debug\repaso poo.exe
+C:\Users\Susana\source\repos\repaso poo\repaso poo\bin\Debug\repaso poo.pdb
+C:\Users\Susana\source\repos\repaso poo\repaso poo\obj\Debug\repaso poo.csproj.AssemblyReference.cache
+C:\Users\Susana\source\repos\repaso poo\repaso poo\obj\Debug\repaso poo.csproj.CoreCompileInputs.cache
+C:\Users\Susana\source\repos\repaso poo\repaso poo\obj\Debug\repaso poo.exe
+C:\Users\Susana\source\repos\repaso poo\repaso poo\obj\Debug\repaso poo.pdb
